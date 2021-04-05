@@ -1,0 +1,13 @@
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+D:\wsei\vstudio\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
