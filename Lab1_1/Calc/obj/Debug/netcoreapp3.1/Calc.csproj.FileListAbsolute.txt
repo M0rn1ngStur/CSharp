@@ -11,3 +11,17 @@ D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.dll
 D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
 D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
 D:\wsei\vstudio\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+F:\git\CSharp\Lab1_1\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.AssemblyReference.cache
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+F:\git\CSharp\Lab1_1\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache

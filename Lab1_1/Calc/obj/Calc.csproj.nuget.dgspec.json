@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wsei\\vstudio\\Lab1_1\\Calc\\Calc.csproj": {}
+    "F:\\git\\CSharp\\Lab1_1\\Calc\\Calc.csproj": {}
   },
   "projects": {
-    "D:\\wsei\\vstudio\\Lab1_1\\Calc\\Calc.csproj": {
+    "F:\\git\\CSharp\\Lab1_1\\Calc\\Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wsei\\vstudio\\Lab1_1\\Calc\\Calc.csproj",
+        "projectUniqueName": "F:\\git\\CSharp\\Lab1_1\\Calc\\Calc.csproj",
         "projectName": "Calc",
-        "projectPath": "D:\\wsei\\vstudio\\Lab1_1\\Calc\\Calc.csproj",
-        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-        "outputPath": "D:\\wsei\\vstudio\\Lab1_1\\Calc\\obj\\",
+        "projectPath": "F:\\git\\CSharp\\Lab1_1\\Calc\\Calc.csproj",
+        "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
+        "outputPath": "F:\\git\\CSharp\\Lab1_1\\Calc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "S:\\vstudio\\sdk\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
